@@ -221,6 +221,20 @@ header {
     background-size: cover;
 
 }
+.cta-section{
+  background-color: var(--accent-color-dark);
+  padding-bottom: 80px;
+}
+.cta-container{
+  color: white;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.cta-container p{
+  color: white;
+  margin-top: 20px;
+}
 .spacer {
   min-height: 100vh;
 }
